@@ -1,0 +1,17 @@
+# Core Data Analysis and Scientific Computing
+pandas
+numpy
+
+# Visualization Libraries
+matplotlib
+seaborn
+wordcloud
+
+# Natural Language Processing (NLP) Toolkit
+# Includes tokenization, stemming (PorterStemmer), and frequency analysis (FreqDist)
+nltk
+
+# Machine Learning and Modeling
+# Used for CountVectorizer, train_test_split, LogisticRegression, 
+# DecisionTreeClassifier, KNeighborsClassifier, MultinomialNB, and make_pipeline
+scikit-learn
