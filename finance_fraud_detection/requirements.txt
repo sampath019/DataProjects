@@ -1,0 +1,15 @@
+# Core Data Science and Analysis Libraries
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+
+# Jupyter Notebook Environment
+jupyter
+ipykernel
+notebook
+
+# Machine Learning Models
+# XGBoost is a powerful gradient boosting library used in your model training
+xgboost
