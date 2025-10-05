@@ -1,0 +1,21 @@
+# Data Handling and I/O
+pandas
+numpy
+kagglehub
+Pillow # Used for: from PIL import Image
+
+# Visualization and EDA
+matplotlib
+seaborn
+missingno
+plotly
+
+# Machine Learning and Preprocessing
+scikit-learn
+category-encoders # Used for: BinaryEncoder
+xgboost
+lightgbm
+catboost
+
+# Note: The original code imported SGDClassifier, SVC, MLPClassifier, 
+# and DecisionTreeClassifier, all of which are included under 'scikit-learn'.
